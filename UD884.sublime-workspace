@@ -1,0 +1,1015 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getEnvelope"
+			],
+			[
+				"setting",
+				"settings_raw  (variable)"
+			],
+			[
+				"JSON",
+				"parseJSON  (function)"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fotn",
+				"font-variant"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"pa",
+				"parseMap"
+			],
+			[
+				"metho",
+				"methodHTTPRequestType"
+			],
+			[
+				"messa",
+				"message-id"
+			],
+			[
+				"par",
+				"parseMessageListing"
+			],
+			[
+				"in",
+				"invokeSync"
+			],
+			[
+				"apps",
+				"appstoreView"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"un",
+				"unsubscribe"
+			],
+			[
+				"uns",
+				"unsubscribe"
+			],
+			[
+				"find",
+				"findWhere"
+			],
+			[
+				"pare",
+				"parentView"
+			],
+			[
+				"de",
+				"declineInvitation"
+			],
+			[
+				"ac",
+				"acceptInvitation"
+			],
+			[
+				"reje",
+				"rejectInvite"
+			],
+			[
+				"accepti",
+				"acceptInvite"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"res",
+				"responseXML"
+			],
+			[
+				"over",
+				"overlayLeft"
+			],
+			[
+				"overl",
+				"overlayTop"
+			],
+			[
+				"inn",
+				"innerHeight  (variable)"
+			],
+			[
+				"s",
+				"show"
+			],
+			[
+				"remov",
+				"removeView  (argument)"
+			],
+			[
+				"cont",
+				"contacts"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"met",
+				"method"
+			],
+			[
+				"aja",
+				"ajaxSettings"
+			],
+			[
+				"func",
+				"function  (keyword)"
+			],
+			[
+				"acti",
+				"activatedServicesView"
+			],
+			[
+				"igno",
+				"ignoreDOMErrors"
+			],
+			[
+				"Ig",
+				"ignoreDOMErrors"
+			],
+			[
+				"gro",
+				"groups"
+			],
+			[
+				"close",
+				"closeEditDialog"
+			],
+			[
+				"method",
+				"methodDataMap"
+			],
+			[
+				"sho",
+				"showEditDialog"
+			],
+			[
+				"inv",
+				"invitationDialog"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"appe",
+				"appendChild"
+			],
+			[
+				"chil",
+				"childNodes"
+			],
+			[
+				"firs",
+				"firstonly"
+			],
+			[
+				"no",
+				"node"
+			],
+			[
+				"xml",
+				"XML-request"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ic",
+				"icn_copysent_light"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"ou",
+				"outline"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"out",
+				"outline-color"
+			],
+			[
+				"ta",
+				"table-caption"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"border-l",
+				"border-left-style"
+			],
+			[
+				"t",
+				"table-row"
+			],
+			[
+				"padding-",
+				"padding-right:   (property)"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"background-c",
+				"background-color:   (property)"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"He",
+				"Header"
+			],
+			[
+				"Hea",
+				"HeaderView"
+			],
+			[
+				"mo",
+				"modelMO"
+			],
+			[
+				"add",
+				"addBlackListEntry"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"memb",
+				"memberView"
+			],
+			[
+				"en",
+				"envelope"
+			],
+			[
+				"invitat",
+				"invitationDialog"
+			],
+			[
+				"parent",
+				"parentview"
+			],
+			[
+				"dis",
+				"displayStatus"
+			],
+			[
+				"togg",
+				"toggleViewOnly"
+			],
+			[
+				"dele",
+				"deleteAddress"
+			],
+			[
+				"co",
+				"cont"
+			],
+			[
+				"is",
+				"isEnabled"
+			],
+			[
+				"rp",
+				"rpls"
+			],
+			[
+				"sign",
+				"signaturesView"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"reset",
+				"resetInvitations"
+			],
+			[
+				"invita",
+				"invitationList"
+			],
+			[
+				"servicecon",
+				"serviceConfigRows  (variable)"
+			],
+			[
+				"pars",
+				"parseMap"
+			],
+			[
+				"me",
+				"members"
+			],
+			[
+				"Tabl",
+				"TableRowView"
+			],
+			[
+				"newgr",
+				"newGroupContainer"
+			],
+			[
+				"status",
+				"statusCode"
+			],
+			[
+				"new",
+				"newGroup"
+			],
+			[
+				"options",
+				"options  (argument)"
+			],
+			[
+				"modelM",
+				"modelMO"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"ser",
+				"serviceConfigRows"
+			],
+			[
+				"loa",
+				"loadConfigView"
+			],
+			[
+				"rule",
+				"ruleEnabled"
+			],
+			[
+				"col",
+				"collectData"
+			],
+			[
+				"cl",
+				"class=  (attribute)"
+			],
+			[
+				"ad",
+				"address"
+			],
+			[
+				"mode",
+				"modelMT"
+			],
+			[
+				"cop",
+				"copyaddress"
+			],
+			[
+				"parentVi",
+				"getParentView"
+			],
+			[
+				"copy",
+				"copyAddress"
+			],
+			[
+				"undef",
+				"undefined  (keyword)"
+			],
+			[
+				"retr",
+				"retrieveServiceConfiguration"
+			],
+			[
+				"getco",
+				"getConfigurationModel"
+			],
+			[
+				"con",
+				"configModel"
+			],
+			[
+				"retrievec",
+				"retrieveCompleted"
+			],
+			[
+				"mer",
+				"mergeContact"
+			],
+			[
+				"proce",
+				"processFetchError"
+			],
+			[
+				"re",
+				"retrieveCount"
+			],
+			[
+				"lo",
+				"listenTo"
+			],
+			[
+				"copyad",
+				"copyaddress"
+			],
+			[
+				"Copyc",
+				"CopyConfigRow"
+			],
+			[
+				"merge",
+				"mergeAddresses"
+			],
+			[
+				"to",
+				"toggleCheckbox"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2589,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inde",
+				"Indent XML"
+			],
+			[
+				"in",
+				"Indent XML"
+			],
+			[
+				"ind",
+				"Indent XML"
+			],
+			[
+				"i",
+				"Indent XML"
+			],
+			[
+				"",
+				"Indent XML"
+			],
+			[
+				"ide",
+				"Indent XML"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 262.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Dmitry/Documents/GitHub/udportfolio/index.html",
+		"/C/Projects/swg/models/service.model.js",
+		"/C/Projects/swg/models/divert.model.js",
+		"/C/RubyDevKit/config.yml",
+		"/C/Ruby200-x64/rubydevkit/config.yml",
+		"/C/Projects/swg/scripts/jquery.js",
+		"/C/Projects/swg/scripts/backbone.js",
+		"/C/Projects/swg/scripts/Realplace - Landing.sublime-project",
+		"/C/Projects/SWG/index.html",
+		"/C/Projects/SWG/models/autoreply.model.js",
+		"/C/Projects/SWG/templates/popups.html",
+		"/C/Projects/SWG/views/popups.view.js",
+		"/C/Projects/SWG/templates/page.html",
+		"/C/Projects/SWG/scripts/app.js",
+		"/C/Projects/SWG/models/service.model.js",
+		"/C/Projects/SWG/templates/divert.html",
+		"/C/Projects/SWG/templates/copy.html",
+		"/C/Projects/SWG/templates/blacklist.html",
+		"/C/Projects/SWG/templates/autoreply.html",
+		"/C/Projects/SWG/themes/style.css",
+		"/C/Projects/SWG/templates/signature.html",
+		"/C/Projects/SWG/templates/groupsms.html",
+		"/C/Projects/swg/views/misc.view.js",
+		"/C/Projects/SWG/views/group.view.js",
+		"/C/Projects/SWG/views/logon.view.js",
+		"/C/Projects/SWG/models/contacts.model.js",
+		"/C/Projects/SWG/models/divert.model.js",
+		"/C/Projects/SWG/models/config.model.js",
+		"/C/Projects/SWG/models/group.model.js",
+		"/C/Projects/SWG/scripts/global.js",
+		"/C/Projects/SWG/views/app.view.js",
+		"/C/Projects/SWG/views/header.view.js",
+		"/C/Projects/fuzechannels",
+		"/C/Projects/SWG/views/activatedservices.view.js",
+		"/C/Projects/SWG/models/activatedservice.model.js",
+		"/C/Projects/SWG/models/customer.model.js",
+		"/C/Projects/SWG/models/copy.model.js",
+		"/C/Projects/SWG/views/autoreply.view.js",
+		"/C/Projects/SWG/scripts/baseclasses.js",
+		"/C/Users/Dmitry/Documents/Reminders_TODO",
+		"/C/Projects/SWG/templates/activatedServices.html",
+		"/C/Projects/TinySort/src/jquery.tinysort.js",
+		"/C/Projects/SWG/views/services.view.js",
+		"/C/Projects/SWG/models/archive.model.js",
+		"/C/Projects/SWG/controllers/router.js",
+		"/C/Projects/SWG/scripts/backbone.js",
+		"/C/Projects/SWG/models/blacklist.model.js",
+		"/C/Projects/SWG/models/signature.model.js",
+		"/C/Projects/SWG/scripts/32869ad8-7da5-45ec-8b19-f8b15a83fedc.dmp",
+		"/C/Projects/swg/views/logon.view.js",
+		"/C/Projects/swg/views/header.view.js",
+		"/C/Projects/swg/views/app.view.js",
+		"/C/Projects/SWG/scripts/cookie.js",
+		"/C/Projects/SWG/scripts/xmlutils.js",
+		"/C/Projects/SWG/scripts/jsxml.js",
+		"/C/Projects/SWG/scripts/xml2json.js",
+		"/C/Projects/swg/scripts/xmlutils",
+		"/C/Projects/swg/.git/config",
+		"/C/Projects/SWG/themes/onoff.css",
+		"/C/Projects/SWG/themes/dialog.css",
+		"/C/Projects/SWG/templates/address.html",
+		"/C/Projects/SWG/templates/services.html",
+		"/C/Projects/SWG/templates/copyRow.html",
+		"/C/Projects/SWG/templates/services.html.bak",
+		"/C/Projects/SWG/SWG.sublime-project",
+		"/C/Projects/swg/templates/page.html",
+		"/C/Program Files (x86)/PuTTY/putty.log",
+		"/C/Projects/SWG/views/blacklist.view.js",
+		"/C/Projects/swg/templates/blacklist.html",
+		"/C/Projects/SWG/views/copy.view.js",
+		"/C/Users/Dmitry/Downloads/96BC.tmp",
+		"/C/Projects/swg/views/address.view.js",
+		"/C/Projects/swg/themes/dialog.css",
+		"/C/Projects/swg/templates/address",
+		"/C/Projects/SWG/views/signature.view.js",
+		"/C/Projects/SWG/views/divert.view.js",
+		"/C/Projects/swg/templates/signature.html",
+		"/C/Projects/swg/templates/divert.html",
+		"/C/Projects/swg/templates/groupsms.html",
+		"/C/Projects/SWG/index.html.bak",
+		"/C/Projects/SWG/views/archive.view.js",
+		"/C/Projects/swg/templates/autoreply.html",
+		"/C/Projects/swg/models/blacklist.model.js",
+		"/C/Projects/swg/views/blacklist.view.js",
+		"/C/Projects/swg/views/archive.view.js",
+		"/C/Projects/swg/views/autoreply.view.js",
+		"/C/Projects/swg/models/archive.model.js",
+		"/C/Projects/swg/models/autoreply.model.js",
+		"/C/Projects/swg/models/signature.model.js",
+		"/C/Projects/swg/models/group.model.js",
+		"/C/Projects/swg/views/group.view.js",
+		"/C/Projects/swg/views/divert.view.js",
+		"/C/Projects/swg/views/signature.view.js",
+		"/C/Users/Dmitry/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+		"/C/Users/Dmitry/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Dmitry/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/Users/Dmitry/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/Users/Dmitry/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Dmitry/AppData/Roaming/Sublime Text 3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/C/Users/Dmitry/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Projects/SWG/.git/config",
+		"/C/Projects/SWG/themes/reset.css",
+		"/C/Users/Dmitry/Documents/Azure inventory",
+		"/C/Projects/Study/udacity/CS253/Udacity CS253/main.py",
+		"/C/Projects/Study/udacity/CS253/hw2/blog.py",
+		"/C/Projects/SWG/templates/services.hbs",
+		"/C/Users/Dmitry/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Dmitry/AppData/Roaming/Sublime Text 3/Packages/User/CSS.sublime-settings",
+		"/C/Users/Dmitry/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Projects/SWG/templates/services.hbt",
+		"/C/Projects/Study/udacity/CS253/HW1/dn-udacity-cs253-hw1/main.py",
+		"/C/Projects/databases",
+		"/C/Projects/Study/coursera/AndroidMobileDev/labtest",
+		"/C/Users/Dmitry/Documents/DSP API discussion",
+		"/C/Users/Dmitry/Documents/Platform troubleshooting",
+		"/C/Users/Dmitry/Documents/DSP Migration call.01.13.2014",
+		"/C/Users/Dmitry/Documents/Telcel SmartSMS WebGUI discussion 2.4.2014.txt",
+		"/C/Projects/Study/udacity/CS253/Udacity CS253/app.yaml",
+		"/C/Projects/Study/udacity/CS253/HW1/dn-udacity-cs253-hw1/app.yaml",
+		"/C/Projects/Study/coursera/AndroidMobileDev/week1.2/Misc/TheAnswer/AndroidManifest.xml",
+		"/C/Projects/Study/coursera/AndroidMobileDev/week1.2/Misc/TheAnswer/gen/course/examples/theanswer/R.java",
+		"/C/Projects/Study/coursera/AndroidMobileDev/week1.2/Misc/TheAnswer/gen/course/examples/theanswer/BuildConfig.java",
+		"/C/Projects/Study/coursera/AndroidMobileDev/week1.1/week1.1.iml",
+		"/C/temp/t/RemindersUATCapture/reminders_uat_notes",
+		"/C/Projects/Study/coursera/AndroidMobileDev/country.txt",
+		"/C/Projects/Soli Platform/Release/v2.5.006/SmallBusinessUI/Telcel/TelcelUI/Scripts/Lang/Index-en.json",
+		"/C/temp/add reminder date-time.version1.testcase.xml",
+		"/C/Users/Dmitry/Documents/NOC meeting"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getServices",
+			"&quot;",
+			"getRetrieveData",
+			"nocolor",
+			"row",
+			"trigger",
+			"conversation",
+			"archivedConversationContainer",
+			"outline",
+			"archivedConversationContainer",
+			"tablehead",
+			".selected",
+			"archivedNumber",
+			"tablehead",
+			"container",
+			"detectAddressType",
+			"number",
+			"protocol",
+			"serviceConfigRows",
+			"this.parseMap.",
+			"parse:",
+			"inbox",
+			"mergeDetails",
+			"serviceConfigRows",
+			"addBlackListEntry",
+			"serviceConfigRows",
+			"headers",
+			"s.headers",
+			"authoriz",
+			"headers",
+			"s.headers",
+			"setRequestHeader",
+			"ajaxExtend",
+			"ajaxSetup",
+			"ajax",
+			"extend",
+			"ajax",
+			"authorization",
+			"ajaxSettings",
+			"methodHTTPRequestType",
+			"messagelisting",
+			"parseGetGroups",
+			"getretrievedata",
+			"retrieve",
+			"MutedGroups",
+			"postRetrieve",
+			"sync",
+			"options.success",
+			"ignoredomerrors",
+			"retrieve",
+			"parsemap",
+			"header",
+			"isAndroid",
+			"appstoreView",
+			"AppConfig",
+			"AppView",
+			"appstoreview",
+			"mobile",
+			"phone",
+			"mafmoservice",
+			"retrieve",
+			"parseGetGroups",
+			"getRequestData",
+			"ajaxSettings",
+			"getCreateGroupData",
+			"API_URL",
+			"invoke",
+			"url",
+			"урл",
+			"unprocesseddata",
+			"enable",
+			"getConfigurationModel",
+			"toggle",
+			"serviceEnabled",
+			"toggle",
+			"serviceEnabled",
+			"AppView",
+			"Global.Provisioning",
+			"return Global.getUrl",
+			"url",
+			"parseRead",
+			"archivedMessageContainer",
+			"container",
+			"archivedMessageContainer",
+			"container",
+			"archive",
+			"logout",
+			"pointer",
+			"margin",
+			"center",
+			"unsubscribe",
+			"ldapId",
+			"updategroup",
+			"refre",
+			"unsubscribe",
+			"mutegroup",
+			"isMuted",
+			"listMutedGroups",
+			"muteGroup",
+			"postRetrieve",
+			"addToContacts",
+			"ajax",
+			"getRequestData",
+			"retrieve",
+			".group",
+			"message",
+			"muteGroup",
+			"groupname",
+			".top",
+			".small",
+			"group",
+			"groupicon",
+			"psn",
+			"center",
+			"isPending",
+			"GroupSMSCofigView",
+			"GroupSMSConfigView",
+			"GroupSMSCofigView",
+			"serviceconfigurationcontainer",
+			"container",
+			".small",
+			"small",
+			"inner",
+			".group",
+			".small",
+			".bottom",
+			"bottom",
+			"small"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"GroupSMSConfigView",
+			"errorDialog",
+			"serviceConfigRows"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2589,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "UD884.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Projects\\Realplace\\Landing\\Realplace Landing.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
